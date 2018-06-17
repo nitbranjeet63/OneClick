@@ -1,0 +1,37 @@
+Development & Technologies Tools
+
+
+FrontEnd - Angular 4 & Ionic 3 (Visual Studio Code IDE latest)
+
+Middle Later - Rest API (Using Web API .Net Technologies (Micro Services & Server Less with Azure Cloud)/ Node.js Rest Services)
+
+BackEnd - (MySql/ NoSQL - MongoDB)
+
+
+Sprint 1 - 2-3 Weeks
+
+1. User Story :- Create UI Form User Create, Read, Update, Delete
+
+	Task 1 :- Form Should design with fields like 
+		 
+		  Sign Up Form - User Id - Phone(PK), Password, Email
+
+	          User Profile Form - Name, Address - (State, City, Pincode)
+
+	Task 2 :- Create DB for same as Task 1
+
+		 DataBase Name - OneClick
+			Table  - User :-    PK - Phone Number, Password, Email, FK - AddressId
+			         Address :- PK - AddressId, FK - UserId, Name, State, City, Pincode 		
+
+	Task 3 :- Validation
+
+	Task 4 :- Unit Testing
+
+	Test 5 :- QA 
+
+
+
+
+
+
